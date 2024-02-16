@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Developer.
 -------------------
 
-I've been learning to code since the past few months with aim to start my career in this.
+I've been learning to code since the past few months with aim to start my career in it.
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [swet.sagar93@gmail.com](mailto:swet.sagar93@gmail.com)
