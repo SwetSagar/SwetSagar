@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swet Sagar
+Hi!! I am Swet. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==================================================================================================================================
 
 Aspiring Developer.
@@ -6,10 +6,10 @@ Aspiring Developer.
 
 I've been learning to code since the past few months with aim to start my career in it.
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based out of Bangalore.
 * ✉️  You can contact me at [swet.sagar93@gmail.com](mailto:swet.sagar93@gmail.com)
-* 🧠  I'm learning Backend development
-* 🤝  I'm open to collaborating on Projects
+* 🧠  I'm learning Python.
+* 🤝  I'm open to collaborating on Projects.
 
 <a href="https://www.github.com/SwetSagar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SwetSagar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,7 +30,6 @@ src="https://img.shields.io/github/followers/SwetSagar?logo=github&style=for-the
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetsagar&show_icons=true&locale=en" alt="swetsagar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetsagar&theme=default" alt="swetsagar" /></p>
-
 
 
 ### Socials
