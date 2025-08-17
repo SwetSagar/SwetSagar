@@ -16,7 +16,6 @@
 - 🌱 I'm currently learning **DSA**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 🤔 I'm looking for help with **Python**
-- 💬 Ask me about **[Your expertise areas]**
 - 📫 How to reach me: **swet.sagar93@gmail.com**
 
 ## 🛠️ Tech Stack
