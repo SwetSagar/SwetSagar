@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **CSE Notes hosting**
+- 🔭 I'm currently working on **Meta Database Engineer Certification**
 - 🌱 I'm currently learning **DSA**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 🤔 I'm looking for help with **Python**
