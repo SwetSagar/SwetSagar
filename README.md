@@ -1,47 +1,46 @@
-# Hi there, I'm Swet Sagar 👋
+# Hi there, I'm Swet Sagar! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
-</div>
+I am an aspiring full-stack software developer and data enthusiast based in Bengaluru, India. I bridge the gap between creative problem-solving and technical execution, constantly learning new technologies to build impactful applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwetSagar&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/SwetSagar?label=Followers&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/SwetSagar?label=Stars&style=flat-square&color=yellow" />
-</p>
+---
 
+## 🚀 About Me
 
-## 🛠️ Tech Stack
+- 📖 **Current Focus:** Leveling up my software development skills, mastering frontend and backend web technologies.
+- 🎓 **Education:** - Pursuing a **Master of Arts in History** from IGNOU.
+  - Graduate of the **National Institute of Fashion Technology (NIFT)**, B.F.Tech (AIR 14, 2011).
+- 🧠 **Interests:** Quantitative aptitude, competitive exam prep, financial markets, and technical/fundamental stock analysis.
+- ⚡ **Fun Fact:** I have a diverse competitive background—I was recommended by the 11 SSB Allahabad board for the National Defence Academy (NDA) with an All India Rank of 233.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-</p>
+---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwetSagar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwetSagar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="165">
-</div>
+### 💻 Software & Web Development
+*Under construction as I actively expand my developer toolkit!*
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwetSagar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+* **Frontend:** HTML5, CSS3, JavaScript (Basic)
+* **Backend & Scripting:** Python
+* **Tools & Version Control:** Git, GitHub
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwetSagar&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
-</div>
+### 📊 Data Analytics & Machine Learning
+* **Languages & Databases:** Python, Google BigQuery
+* **Core Competencies:** Machine Learning fundamentals, Data Analytics
+
+---
+
+## 📈 What I'm Working On
+
+- **Personal Time-Tracking App:** Building a Python-based utility featuring document tracking and client billing capabilities to optimize productivity.
+- **Full-Stack Journey:** Diving deeper into advanced frontend frameworks, APIs, and backend architecture to become a well-rounded developer.
+
+---
+
+## 🏆 Achievements & Milestones
+
+- **Competitive Exams:** Cleared UPSC Civil Services Preliminary Examinations (2020, 2022). Cleared Prelims for SBI PO and RBI Grade B.
+- **Management Analytics:** Achieved a 95 percentile in VA-RC (CAT) and received admissions calls from IIM Ranchi.
+- **Continuous Learning:** Completed formal coursework in *Introduction to Machine Learning* via NPTEL.
 
 
 ## 🤝 Connect with Me
