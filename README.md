@@ -1,6 +1,6 @@
 # Hi there, I'm Swet Sagar! 👋
 
-Aspiring developer.
+Bulding Stuff!! Learning Things!!
 
 ---
 
