@@ -1,6 +1,6 @@
 # Hi there, I'm Swet Sagar! 👋
 
-Bulding Stuff!! Learning Things!!
+Building Stuff! Learning Things!
 
 ---
 
