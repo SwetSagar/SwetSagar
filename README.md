@@ -7,13 +7,13 @@ Building Stuff! Learning Things!
 ## 🚀 About Me
 
 - 📖 **Current Focus:** Leveling up my software development skills, mastering frontend and backend web technologies.
-- 🎓 **Education:** - Pursuing my Masters in History
+- 🎓 **Education:** - Looking for a Masters in either AIML or DSE.
 
 ---
 
 ## 📈 What I'm Working On
 
-- **Upskilling my dev skills :** Through online courses from Udemy and Coursera. 
+- **Upskilling my dev skills :** Through online courses from Udemy, Coursera and building projects. 
 - **Full-Stack Journey:** Diving deeper into advanced frontend frameworks, APIs, and backend architecture to become a well-rounded developer.
 
 ---
